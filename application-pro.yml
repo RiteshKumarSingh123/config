@@ -1,0 +1,19 @@
+spring:
+  config:
+    activate:
+      on-profile: pro
+
+build:
+  version:
+    java-version: "3.5"
+
+accounts:
+  message: "welcome to the king sector here only one lion is there that is production department"
+
+  contact-details:
+    name: "production the unknown developer"
+    developer: "luddha the self thinking developer"
+
+  on-call-support:
+    - "989898989797"
+    - "919919191919"
