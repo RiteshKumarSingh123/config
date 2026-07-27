@@ -8,7 +8,7 @@ build:
     java-version: "2.5"
 
 accounts:
-  message: "welcome to the king sector here only one lion is there that is qa department"
+  message: "welcome to the king sector here only one lion is there that is integrationtesting qa department"
 
   contact-details:
     name: "buddha the unknown developer"
