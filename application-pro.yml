@@ -8,10 +8,10 @@ build:
     java-version: "3.5"
 
 accounts:
-  message: "welcome to the king sector here only one lion is there which is for production department"
+  message: "welcome to the king sector here only one lion is there which is for production  department"
 
   contact-details:
-    name: "production the unknown developer"
+    name: "production the king developer"
     developer: "luddha the self thinking developer"
 
   on-call-support:
